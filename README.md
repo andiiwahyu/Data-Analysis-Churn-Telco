@@ -1,2 +1,2 @@
 # Data Analysis Churn telco
-My Portofolio
+Di sini, saya menampilkan salah satu proyek data analysis yang berfokus pada analisis churn pelanggan di industri telekomunikasi. Proyek ini menggunakan berbagai teknik analisis data dan visualisasi untuk memahami pola churn pelanggan, memprediksi kemungkinan pelanggan berhenti menggunakan layanan, serta memberikan rekomendasi berbasis data untuk meningkatkan retensi pelanggan. Dengan kemampuan analisis yang kuat, pemahaman mendalam tentang teknik machine learning, dan perhatian pada detail, saya berkomitmen untuk terus berkembang di bidang analitik data. Jelajahi proyek saya lebih lanjut untuk melihat bagaimana data dapat diubah menjadi wawasan berharga.
